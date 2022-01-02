@@ -1,3 +1,7 @@
+go
+use QLCH
+go
+
 -- Index
 create index idx_SPname on SanPham (TenSP)
 
